@@ -62,7 +62,7 @@ p, li, .description{
 .peopleInfo{
 height: 400px;
 width: 100%;
-background: url('../img/friends-happy2.jpg');
+background: url("https://picturefood.files.wordpress.com/2011/05/img_80421.jpg");
 background-repeat: no-repeat;
 background-position: 100%;
 background-size: cover;
